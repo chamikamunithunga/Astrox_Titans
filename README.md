@@ -1,5 +1,5 @@
 
-ASTROX_TITAN is the sub project of ASTROX
+ASTROX_TITAN is the sub project of ASTROX 
 ------------------------------------------
 
 
