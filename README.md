@@ -34,3 +34,17 @@ HTML4: The structural foundation of the project.
 CSS: Styling and layout of the project components.
 
 JavaScript: Adds interactivity and dynamic content to the project.
+
+Future Enhancements
+--------------------
+Enhanced Animations: Incorporate more advanced animations for a richer user experience.
+
+Content Expansion: Add more detailed information on additional celestial bodies and space missions.
+
+Optimization: Improve loading times and overall performance.
+
+Contributing
+-------------
+Contributions are welcome! Feel free to fork this repository, submit issues, or send pull requests. For major changes, please open an issue first to discuss what you would like to change.
+
+
