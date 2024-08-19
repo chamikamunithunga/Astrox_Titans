@@ -8,9 +8,12 @@ ASTROX_TITAN is the sub project of ASTROX
 
 
 ![Screenshot 2024-08-20 at 12 01 57 AM](https://github.com/user-attachments/assets/4ccd9b12-a402-4bf8-8d2d-4d78906fc4ff)
+![Screenshot 2024-08-20 at 12 02 07 AM](https://github.com/user-attachments/assets/d8faee21-6fc5-4a98-ac0c-cbcfcffd1c8f)
 
 ![Screenshot 2024-08-20 at 12 02 22 AM](https://github.com/user-attachments/assets/58ce9f4c-ce9a-43f5-8185-6b3413398d36)
 ![Screenshot 2024-08-20 at 12 02 41 AM](https://github.com/user-attachments/assets/2fa1c788-d761-47d9-ab15-93a8f71ba974)
+
+
 
 
 ASTROX_TITAN is a subproject of the ASTROX initiative, focusing on an immersive and interactive exploration of the cosmos. This project is built using HTML4, CSS, and JavaScript, offering a robust yet straightforward experience that showcases the wonders of space.
