@@ -34,7 +34,7 @@ Technologies Used
 -----------------
 HTML4: The structural foundation of the project.
 
-CSS: Styling and layout of the project components.
+SCSS: Styling and layout of the project components.
 
 JavaScript: Adds interactivity and dynamic content to the project.
 
